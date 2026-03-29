@@ -1,3 +1,1 @@
-Hi there 👋 I'm Felix M. Morales Jr., a 20-year-old aspiring Web Developer from the Philippines. I am currently learning and exploring web development technologies such as HTML, CSS, JavaScript, and Laravel. I enjoy building simple web applications and continuously improving my coding skills by practicing and working on different development projects.
-
-I am passionate about learning new technologies and expanding my knowledge in both front-end and back-end development. My goal is to become a skilled Full Stack Developer and create useful, user-friendly websites and applications that can help solve real-world problems while growing as a developer.
+Hi there 👋 I'm Felix M. Morales Jr., I'm a beginner web developer practicing coding and building small projects to improve my skills.
